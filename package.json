@@ -1,0 +1,42 @@
+{
+  "name": "js-awesome-funcs",
+  "description": "JavaScript Functions:  Some reusable functions that reduce some time and effort for programmers",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": "Mo Ibra",
+  "contributors": [
+    "Mo Ibra (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "jonschlinkert/is-odd",
+  "bugs": {
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^6.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "array",
+    "count",
+    "even",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "odd",
+    "string"
+  ]
+}
